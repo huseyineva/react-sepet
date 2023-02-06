@@ -1,0 +1,74 @@
+[
+	{
+		"id":1,
+		"title":"Match Ticket",
+		"price":20,
+		"image": "https://thumbs.dreamstime.com/b/soccer-match-ticket-icon-simple-style-illustration-vector-web-design-isolated-white-background-184325459.jpg"
+	},
+	{
+		"id":2,
+		"title":"Shoe",
+		"price":40,
+		"image": "https://static.nike.com/a/images/t_default/89dc34fd-9985-4bd5-b506-f78345dbac2a/custom-converse-chuck-taylor-all-star-high-top.png"
+	},
+	{
+		"id":3,
+		"title":"Television",
+		"price":150,
+		"image": "https://singer.com.jm/media/catalog/product/cache/3/image/577x/9df78eab33525d08d6e5fb8d27136e95/C/T/CT-IFF55U61_34.jpg"
+	},
+	{
+		"id":4,
+		"title":"Laptop",
+		"price":250,
+		"image": "https://www.arcelik.com.tr/media/resize/9221061600_LO1_20230119_102542.png/1000Wx1000H/image.png"
+	},
+	{
+		"id":5,
+		"title":"Chocolate",
+		"price":2,
+		"image": "https://5.imimg.com/data5/LM/TS/MY-11986154/plain-chocolate-500x500.jpg"
+	},
+	{
+		"id":6,
+		"title":"Rakı",
+		"price":50,
+		"image": "https://sarap.online/wp-content/uploads/2022/11/anadolu-raki-sifir-seri-0-7l.jpg"
+	},
+	{
+		"id":7,
+		"title":"Beşiktaş Jersey",
+		"price":40,
+		"image": "https://www.kalitelihayat.com/images/urunler/adidas-bg8471-besiktas-2016-17-away-forma-66993_1.jpg"
+	},
+	{
+		"id":8,
+		"title":"Telephone",
+		"price":1000,
+		"image": "https://cdn.cimri.io/image/1200x1200/appleiphoneceptelefonlarfiyatlariphonemodelleri_178954745.jpg"
+	},
+	{
+		"id":9,
+		"title":"Watch",
+		"price":450,
+		"image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/oppo/thumb/131139-1_large.jpg"
+	},
+	{
+		"id":10,
+		"title":"Cigaratte",
+		"price":5,
+		"image": "https://www.jiomart.com/images/product/600x600/rvwqlee63y/royal-swag-ayurvedic-herbal-cigarette-combo-pack-of-clove-regular-flavour-smoke-10-stick-each-nicotine-free-tobacco-free-cigarettes-helps-in-quit-smoking-pack-of-20-sticks-product-images-orvwqlee63y-p591992662-0-202206081448.jpg"
+	},
+	{
+		"id":11,
+		"title":"Ring",
+		"price":250,
+		"image": "https://www.forevermark.com/globalassets/images/2017-product-detail-page-updates/new-product-images/india-collections/icon-collection/fer029/icon_halo_engagement_ring_pave_diamonds_image5.jpg?format=webp"
+	},
+	{
+		"id":12,
+		"title":"Earphones",
+		"price":150,
+		"image": "https://ae01.alicdn.com/kf/Saae7bf721dc1441e9302b0d1deb5aef6G/TWS-Earphones-Wireless-Bluetooth-Headphones-Stereo-Earbud-With-Mic-HD-Call-In-ear-Sports-Stereo-Touch.jpg"
+	}
+]
